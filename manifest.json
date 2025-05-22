@@ -1,0 +1,21 @@
+{
+    "name": "Suivi du Sommeil Quantique PWA",
+    "short_name": "Sommeil Quantique",
+    "description": "Une application PWA pour suivre votre sommeil, enregistrer les ronflements et obtenir des analyses.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F172A",
+    "theme_color": "#1E3A8A",
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
